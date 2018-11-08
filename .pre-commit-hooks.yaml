@@ -9,4 +9,3 @@
     description: Validate CloudFormation templates.
     entry: validate-cf.sh
     language: script
-
