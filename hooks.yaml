@@ -1,0 +1,11 @@
+-   id: validate-sam
+    name: validate-sam
+    description: Validate SAM templates with sam local.
+    entry: validate-sam.sh
+    language: script
+    files: template.yml
+-   id: validate-cf
+    name: validate-cf
+    description: Validate CloudFormation templates.
+    entry: validate-cf.sh
+
