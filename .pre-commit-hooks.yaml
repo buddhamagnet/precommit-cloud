@@ -13,3 +13,4 @@
     name: lint-cf
     description: Lint Cloudformation templates.
     entry: lint-cf.sh
+    language: script
