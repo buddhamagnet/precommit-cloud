@@ -2,4 +2,4 @@
 
 set -e
 
-cfn-lint template.yaml && echo $?
+cfn-lint template.yml && echo $?
