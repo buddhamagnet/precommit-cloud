@@ -9,3 +9,7 @@
     description: Validate CloudFormation templates.
     entry: validate-cf.sh
     language: script
+-   id: lint-cf
+    name: lint-cf
+    description: Lint Cloudformation templates.
+    entry: lint-cf.sh
